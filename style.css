@@ -1,0 +1,34 @@
+*{
+    font-family: 'Oswald', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: black;
+    color: white;
+    height: 8rem;
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    height: 25rem;
+    width: 40rem;
+}
+
+.primeira{
+    display: flex;
+    gap: 2rem;
+    margin-bottom: 8rem;
+}
+
+p{
+    max-width: 18rem;
+}
+
+.segunda{
+    background-color: #5C548C;
+    height: 20rem;
+}
